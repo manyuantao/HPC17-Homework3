@@ -5,4 +5,4 @@ Homework3, MPI ring communication.
 Type `make` in a terminal.
 
 ## Run the solvers
-See HW3_report.pdf for commands.
+See `HW3_report.pdf` for commands.
